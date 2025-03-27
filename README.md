@@ -1,1 +1,1 @@
-# Componentes_LabTec
+# Componente LabTec
