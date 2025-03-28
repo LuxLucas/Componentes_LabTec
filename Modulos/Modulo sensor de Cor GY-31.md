@@ -1,4 +1,6 @@
-Módulo sensor de cor GY-31 TCS3200
+# Módulo sensor de cor GY-31 TCS3200
+
+[![GY-31 TCS3200](https://cdn.awsli.com.br/2500x2500/468/468162/produto/41386056/4bdf733e9c.jpg)](https://www.eletrogate.com/modulo-sensor-de-cor-gy-31-tcs230-tcs3200?srsltid=AfmBOop2iujUt_L4RZbYwztzPuP8sY2DAGggVRyvsd1MtKCJU9wXLHDl "GY-31 TCS3200")
 
 | GND | Entrada Negativa |
 | --- | --- |
@@ -22,3 +24,10 @@ O sensor de cor TCS3200 usa 64 fotodiodos para detectar cores. A saída deste se
 | L   | H   | Azul |
 | H   | L   | Limpo (sem filtro) |
 | H   | H   | Verde |
+
+
+## Referências
+
+ELETROGATE. **Módulo Sensor De Cor TCS230/TCS3200 - GY-31**. Disponível em: <https://www.eletrogate.com/modulo-sensor-de-cor-gy-31-tcs230-tcs3200?srsltid=AfmBOop2iujUt_L4RZbYwztzPuP8sY2DAGggVRyvsd1MtKCJU9wXLHDl>. Acesso em: 28 mar. 2025.
+
+‌
