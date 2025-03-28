@@ -18,7 +18,7 @@
 
  irá mandar um feixe de luz que ao atingir uma superfície deve retornar ao led preto em
 
- caso de isto acontecer a porta digital retorna HIGH senão deverá retornar LOW.
+ caso de isto acontecer a porta digital retorna LOW senão deverá retornar HIGH.
 
  A sensibilidade do feixe pode ser ajustada através do potenciômetro acima do mesmo
 
@@ -53,11 +53,11 @@
 
 	if(valid == HIGH){
 
-	Serial.println("ACHOU");
+	Serial.println("FALHOU");
 
 	}else{
 
-	Serial.println("FALHOU");
+	Serial.println("ACHOU");
 
 	}
 
