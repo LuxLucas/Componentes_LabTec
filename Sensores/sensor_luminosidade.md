@@ -1,5 +1,6 @@
 
 ## Sensor de luminosidade (Mh sensor Series Flying-fish)
+
 ![enter image description here](https://www.usinainfo.com.br/1034555-thickbox_default/modulo-sensor-de-luminosidade-ldr-4-pinos-saida-digital-e-analogica.jpg)
 
 ## Portas Pin
@@ -25,7 +26,6 @@
 
  HIGH ou LOW o mesmo.
 
-
  O sensor aumenta sua resistência quando está em um ambiente claro e a diminui no
 
  escuro o que faz com que ao analisar a entrada analógica os valores mais próximos do
@@ -43,7 +43,7 @@
 ### Código Exemplo De Teste
 
   
-
+``` cpp
 	void  setup()  {
 
 	//Inicia serial
@@ -81,3 +81,5 @@
 	delay(3000);
 
 	}
+
+```
