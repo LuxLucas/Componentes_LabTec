@@ -4,7 +4,7 @@ O módulo de sensor infravermelho com 4 canais se trata de um sistema composto p
 
 ## Imagem
 
-[![Modulo-de-sensor-infravermelho-com-4-canais.jpg](https://i.postimg.cc/sfJpMwDg/Modulo-de-sensor-infravermelho-com-4-canais.jpg)](https://postimg.cc/MXvc40QC "Módulo de sensor infravermelho com 4 canais")
+![Modulo-de-sensor-infravermelho-com-4-canais][img-modulo-infravermelho]
 
 ## Especificações
 
@@ -21,11 +21,11 @@ O módulo de sensor infravermelho com 4 canais se trata de um sistema composto p
 
 ## Sensores infravermelhos
 
-[![modulo-infravermelho-4-canais-para-robo-seguidor-de-linha-4572-4-918fcd65c0cdd92f37a0c37dd7720bc1.jpg](https://i.postimg.cc/nLt4s57M/modulo-infravermelho-4-canais-para-robo-seguidor-de-linha-4572-4-918fcd65c0cdd92f37a0c37dd7720bc1.jpg)](https://postimg.cc/SnD23ggp "Sensores infravermelhos")
+![modulo-infravermelho-4-canais-para-robo-seguidor-de-linha][img-sensores]
 
 ## Placa central
 
-[![modulo-de-rastreamento-infra-vermelho-4-placa-central.webp](https://i.postimg.cc/d1NZ9S72/modulo-de-rastreamento-infra-vermelho-4-placa-central.webp)](https://postimg.cc/VrMNfgWv "Placa central")
+![modulo-de-rastreamento-infra-vermelho-4-placa-central][img-placa-central]
 
 ## Bibliografia
 
@@ -34,3 +34,9 @@ O módulo de sensor infravermelho com 4 canais se trata de um sistema composto p
 SENSOR. **Sensor de Linha Infravermelho 4 Sondas - Usinainfo**. Disponível em: <https://www.usinainfo.com.br/sensor-de-linha-arduino/sensor-de-linha-infravermelho-4-sondas-2547.html>. Acesso em: 27 mar. 2025. 
 
 TRAY TECNOLOGIA. **MODULO DE RASTREAMENTO INFRA VERMELHO 4 SONDAS**. Disponível em: <https://www.wjcomponentes.com.br/modulo-rastreamento-infravermelho-4-sondas>. Acesso em: 27 mar. 2025. 
+
+<!-- Links das imagens -->
+
+[img-modulo-infravermelho]: https://i.postimg.cc/brY5K51N/Modulo-de-sensor-infravermelho-com-4-canais.jpg "Módulo infravermelho"
+[img-sensores]: https://i.postimg.cc/nLt4s57M/modulo-infravermelho-4-canais-para-robo-seguidor-de-linha-4572-4-918fcd65c0cdd92f37a0c37dd7720bc1.jpg "Sensor infravermelho"
+[img-placa-central]: https://i.postimg.cc/d1NZ9S72/modulo-de-rastreamento-infra-vermelho-4-placa-central.webp "Placa central do módulo"
